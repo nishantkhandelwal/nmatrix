@@ -55,3 +55,47 @@
   .hover\:overflow-y-auto:hover {
     overflow-y: auto;
   }
+  .logo {
+    width: 50px;
+    display: inline;
+  }
+  .h-4
+  {
+    height: 4rem;
+  }
+  .text-base {
+    MARGIN-TOP: 15PX;
+}
+.bg-theme
+{
+  background-color: #f8fafc;
+}
+.h-50
+{
+  min-height: 50px;
+}
+.gradient-green
+{
+  background: linear-gradient(90deg, #f8a945 0%, #7fa73b 100%);
+}
+.gradient-red
+{
+  background: linear-gradient(90deg, #dd3531 0%, #dd3531 100%);
+}
+.text-logo-green
+{
+color:#7fa73b;
+}
+.rounded-5
+{
+  border-radius: 5px;
+}
+.pt-12
+{
+  padding-top: 12px;
+}
+.bg-theme-green
+{
+background:#7fa73b;
+color:#fff;
+}
