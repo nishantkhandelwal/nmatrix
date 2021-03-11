@@ -99,3 +99,17 @@ color:#7fa73b;
 background:#7fa73b;
 color:#fff;
 }
+.list-p
+{
+  padding-top: .7em;
+  display: block;
+  line-height: 1.5;
+}
+.m-l-15
+{
+  padding: 1.5rem;
+}
+.text-justify
+{
+  text-align: justify;
+}
