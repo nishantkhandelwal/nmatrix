@@ -96,7 +96,7 @@ color:#7fa73b;
 }
 .bg-theme-green
 {
-background:#7fa73b;
+background:#7FA7FF;
 color:#fff;
 }
 .list-p
@@ -112,4 +112,10 @@ color:#fff;
 .text-justify
 {
   text-align: justify;
+}
+.with-tranition{
+    transition: all .3s ease-in-out
+}
+.with-tranition:hover{
+    transform: scale(1.05);
 }
